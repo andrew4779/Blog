@@ -37,6 +37,7 @@ This is a personal blogging website where you can create and share your opinions
 | Writer update a blog post       | Updating the blog post in database    | The blog post will be updated                |
 | Writer delete a comment         | Deleting the blog post in database    | The comment will no longer appear under the post                   |
 
+
 ## Technologies Used
 * Python 3.7.4
 * Flask 1.1.1
