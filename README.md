@@ -1,31 +1,26 @@
 # FINE BLOG
 
 ## Author
-Maxwel5, currentlry studying software development to implement programming skills
+Andrew kimani, currentlry studying software development to implement programming skills
 
 ## Installation
 Into the application:
-* Open terminal and key in:'https://github.com/Maxwel5/my-blog.git'
-* Open folder using 'cd my-blog'
-* Run this command './manage.py runserver'
-* For editing write 'code .' or 'atom .'
+* Open terminal and key in:''
+* Run this command './manage.py server'
 
 ## Requests Procedure
 Below are the necessity to achieve the full functionality of the project:
-* Python v 3.6
+* Python v 3.8
 * Install Flask
 * Use pip to install
 * virtualenv
 * create database
 * install flask-migrate
 * Use visual studio editor
-* Link:
 
 ## Terminologies used
-* python3.6
+* python3.8
 * flask
-* html
-* bootstrap
 
 ## User Expectations
 A user should view the blog posts on the site
@@ -40,7 +35,7 @@ A writer, would like to update or delete blogs I have created.
 
 ## License
 MIT License
-* Copyright (c) 2019 Maxwel Wafula
+* Copyright (c) 2022 Andrew kimani
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
