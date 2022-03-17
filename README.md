@@ -5,7 +5,7 @@ Andrew kimani, currentlry studying software development to implement programming
 
 ## Installation
 Into the application:
-* Open terminal and key in:''
+* Open terminal and clone:'https://github.com/andrew4779/Blog.git'
 * Run this command './manage.py server'
 
 ## Requests Procedure
