@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 BLOG
 
 ## Author
+=======
+# BLOG
+
+## Author
+Andrew kimani, currentlry studying software development to implement programming skills
+>>>>>>> 0d35f6ac1533dbecf21433aac8c72b4a2ab5c699
 
 ## Installation
 Into the application:
@@ -15,13 +22,20 @@ Below are the necessity to achieve the full functionality of the project:
 * virtualenv
 * create database
 * install flask-migrate
+<<<<<<< HEAD
 * Use visual studio
 * Link:
+=======
+* Use visual studio editor
+>>>>>>> 0d35f6ac1533dbecf21433aac8c72b4a2ab5c699
 
 ## Terminologies used
 * python3.8
 * flask
+<<<<<<< HEAD
 * html
+=======
+>>>>>>> 0d35f6ac1533dbecf21433aac8c72b4a2ab5c699
 
 ## User Expectations
 A user should view the blog posts on the site
