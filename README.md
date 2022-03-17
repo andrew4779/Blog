@@ -1,4 +1,4 @@
-# FINE BLOG
+# BLOG
 
 ## Author
 Andrew kimani, currentlry studying software development to implement programming skills
