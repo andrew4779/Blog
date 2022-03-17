@@ -3,7 +3,6 @@
 ####  My personal blog web application.
 
 ## Live Site link
-You can view the live application by following this [link]().
 
 ####  User view
 * User can view the blog posts on the site
